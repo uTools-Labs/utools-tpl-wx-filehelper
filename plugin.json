@@ -1,0 +1,26 @@
+{
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "filehelper",
+      "explain": "微信文件传输助手",
+      "cmds": [
+        "微信文件传输助手",
+        {
+          "type": "over",
+          "label": "发送到微信文件传输助手"
+        },
+        {
+          "type": "img",
+          "label": "发送到微信文件传输助手"
+        },
+        {
+          "type": "files",
+          "fileType": "file",
+          "label": "发送到微信文件传输助手"
+        }
+      ]
+    }
+  ]
+}
